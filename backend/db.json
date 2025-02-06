@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "canetaa",
+      "price": "6.99"
+    },
+    {
+      "id": "2",
+      "name": "notebookDSA",
+      "price": 1222.99
+    },
+    {
+      "id": "3",
+      "name": "celular",
+      "price": 14311.29
+    },
+    {
+      "id": "8c4a",
+      "name": "garrafa",
+      "price": "4"
+    }
+  ]
+}

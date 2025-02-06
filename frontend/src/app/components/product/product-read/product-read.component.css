@@ -1,0 +1,17 @@
+.table-container {
+    margin-top: 20px;
+    border-radius: 10px;
+    max-height: calc(100vh - 240px)
+}
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit > i {
+    color: #c3b931bd;
+}
+
+.delete > i {
+    color: #983b45d0;
+}

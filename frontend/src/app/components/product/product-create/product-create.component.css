@@ -1,0 +1,29 @@
+mat-card {
+    color: white;
+    background-color: black;
+}
+
+mat-card-title {
+    padding-bottom: 8px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    background-color: rgb(149, 149, 149);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+mat-form-field {
+    background-color: rgb(149, 149, 149);
+}
+
+button {
+    margin-right: 20px;
+    width: 100px ;
+}
